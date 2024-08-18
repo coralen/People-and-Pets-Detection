@@ -1,6 +1,6 @@
 # People and Pets Recognition
 ## Overview
-The "People and Pets Recognition" project focuses on object detection, specifically tailored for images featuring either people or pets. In this project, we use a pre-trained YOLOv8 model to classify and differentiate between human subjects and pets, which are specifically dogs and cats, in images. The project consists of three main stages:
+The "People and Pets Recognition" project focuses on object detection, specifically tailored for images featuring either people or pets. In this project, I use a pre-trained YOLOv8 model to classify and differentiate between human subjects and pets, which are specifically dogs and cats, in images. The project consists of three main stages:
 
 1. **Train Set Creation**: Preparing and organizing the dataset to include images of people, dogs, and cats for model training.
 2. **Model Training**: Training the YOLOv8 model using the prepared dataset.
